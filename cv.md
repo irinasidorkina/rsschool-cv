@@ -27,3 +27,6 @@ std::string text;
 for (auto const & word : words)
    text += word;
 ```
+### Work experience
+
+I work in the field of advertising. I don't have any coding experience, but I'd like to.
