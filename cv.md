@@ -13,8 +13,8 @@ I currently work in the advertising business world as a traffic manager. My goal
 * GIT
 * HTML
 * C++ (Basic)
-### Code
 
+### Code
 С++
 Merge all strings into one value
 ```
@@ -30,6 +30,7 @@ for (auto const & word : words)
 ### Work experience
 
 I work in the field of advertising. I don't have any coding experience, but I'd like to.
+
 ### Education
 Tambov State University. Faculty of Organization and Information Security Technologies.
 
