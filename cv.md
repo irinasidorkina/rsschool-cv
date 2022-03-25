@@ -13,3 +13,17 @@ I currently work in the advertising business world as a traffic manager. My goal
 * GIT
 * HTML
 * C++ (Basic)
+### Code
+
+С++
+Merge all strings into one value
+```
+std::vector<std::string> words {
+   "Lorem", " ", "ipsum", " ",
+   "dolor", " ", "sit", " ",
+   "amet"};
+ 
+std::string text;
+for (auto const & word : words)
+   text += word;
+```
